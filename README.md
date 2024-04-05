@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hmehra160@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10vsoWVYbeSdOrJ0UKhCP8uWeq3QV1Eo9/view?usp=drive_link](https://drive.google.com/file/d/10vsoWVYbeSdOrJ0UKhCP8uWeq3QV1Eo9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Znj_oGmHnLxA4IJAU4YD4NFuCaVybpC9/view?usp=drive_link](https://drive.google.com/file/d/1Znj_oGmHnLxA4IJAU4YD4NFuCaVybpC9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
