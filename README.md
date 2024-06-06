@@ -9,6 +9,8 @@
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=3d0d42ea033ba39d464ee00011caeec049d6d6fbae92b0ab5391e7c00365ebf8&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemendramehra12-4&label=Profile%20views&color=0e75b6&style=flat" alt="hemendramehra12-4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemendramehra12-4&label=Profile%20commits&color=0e75b6&style=flat" alt="hemendramehra12-4" /> </p>
+
 
 - 🌱 I’m currently learning **Django**
 
