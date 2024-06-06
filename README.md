@@ -20,9 +20,10 @@
 <!-- hackerrank -->
 <a href="https://www.hackerrank.com/h3m3ndra1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h3m3ndra1204" height="30" width="40" /></a>
 <!-- codeforces -->
-<a href="https://codeforces.com/profile/Maaksh04" target="blank"><img align="center" src="https://rawgithubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"      alt="Maaksh04" height="30" width="40" /></a> 
+<a href="https://codeforces.com/profile/Maaksh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"      alt="Maaksh04" height="30" width="40" /></a> 
+
 <!-- codechef -->
-<a href="https://www.codechef.com/users/maaksh1204" target="blank"><img align="center" src="https://rawgithubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg"      alt="maaksh1204" height="30" width="40" /></a> 
+<a href="https://www.codechef.com/users/maaksh1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg"      alt="maaksh1204" height="30" width="40" /></a> 
 <!-- GFG -->
 <a href="https://auth.geeksforgeeks.org/user/aur1lrd/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aur1lrd/profile" height="30" width="40" /></a>
 </p>
