@@ -1,8 +1,11 @@
-<!-- [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F31812582%2F118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif&f=1&nofb=1&ipt=80dc8aca118601263f20f100d8b24aeeb833a6522d63d0edf34dfad845c51962&ipo=images)] -->
+<!-- 
+[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F31812582%2F118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif&f=1&nofb=1&ipt=80dc8aca118601263f20f100d8b24aeeb833a6522d63d0edf34dfad845c51962&ipo=images)] 
+
+-->
 
 
 <h1 align="center">Hi 👋, I'm Hemendra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=3d0d42ea033ba39d464ee00011caeec049d6d6fbae92b0ab5391e7c00365ebf8&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemendramehra12-4&label=Profile%20views&color=0e75b6&style=flat" alt="hemendramehra12-4" /> </p>
