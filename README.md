@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hemendra.mehra2022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Qz7aHwciV6R-nXLWiYCabP966gpXeuj/view?usp=drive_link](RESUME)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/16Qz7aHwciV6R-nXLWiYCabP966gpXeuj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
