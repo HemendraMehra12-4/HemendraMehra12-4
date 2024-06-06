@@ -17,7 +17,7 @@
 
 <p align="left">
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/hemendramehra124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemendramehra124" height="40" width="30" /></a>
+    <a href="https://www.linkedin.com/in/hemendramehra124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemendramehra124" height="30" width="40" /></a>
     <!-- instagram -->
     <a href="https://instagram.com/echenem04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="echenem04" height="40" width="30" /></a>
     <!-- hackerrank -->
@@ -25,7 +25,7 @@
     <!-- codeforces -->
     <a href="https://codeforces.com/profile/Maaksh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"      alt="Maaksh04" height="40" width="30" /></a> 
     <!-- codechef -->
-    <a href="https://www.codechef.com/users/maaksh1204" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/codechef/codechef-icon-filled-256.png?v=1714773964077"      alt="maaksh1204" height="40" width="30" /></a> 
+    <a href="https://www.codechef.com/users/maaksh1204" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/codechef/codechef-icon-filled-256.png?v=1714773964077"      alt="maaksh1204" height="40" width="40" /></a> 
     <!-- GFG -->
     <a href="https://auth.geeksforgeeks.org/user/aur1lrd/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aur1lrd/profile" height="40" width="30" /></a>
 </p>
