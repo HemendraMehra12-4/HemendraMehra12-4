@@ -13,7 +13,7 @@
 
 -->
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **hemendra.mehra2022@gmail.com**
 
